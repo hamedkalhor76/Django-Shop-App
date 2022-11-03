@@ -13,4 +13,5 @@ Some features of this website:
 9. And other features...
 
 Images project:
+
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.png)
