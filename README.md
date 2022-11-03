@@ -14,7 +14,7 @@ Some features of this website:
 
 Images project:
 
-![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.jpg)
+![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.png)
 
 Cart image:
 
