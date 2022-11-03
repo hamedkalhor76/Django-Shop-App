@@ -17,11 +17,9 @@ Images project:
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.png)
 
 
-
 Cart image:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img2.jpg)
-
 
 
 Login before payment image:
@@ -29,11 +27,9 @@ Login before payment image:
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img3.jpg)
 
 
-
 Checkout image:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img4.jpg)
-
 
 
 Order detail image:
@@ -41,17 +37,14 @@ Order detail image:
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img5.jpg)
 
 
-
 User sign in image:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img6.jpg)
 
 
-
 User sign up image:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img7.jpg)
-
 
 
 User sign out image:
