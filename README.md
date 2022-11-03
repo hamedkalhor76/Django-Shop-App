@@ -15,9 +15,13 @@ Some features of this website:
 Images project:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.png)
+
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img2.png)
+
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img3.png)
+
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img4.png)
+
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img5.png)
 
 Cart images:
@@ -27,7 +31,9 @@ Cart images:
 Shopping cart images:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img7.png)
+
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img8.png)
+
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img9.png)
 
 Login before payment images:
