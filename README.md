@@ -12,6 +12,19 @@ Some features of this website:
 8. User registration with Google account
 9. And other features...
 
+Important note:
+For payment operation you must config views.py at this address: website/shop/views.py line 61 to 64 as below:
+
+1. MERCHANT = 'your marchant code'
+2. ZP_API_REQUEST = 'https://example.com/payment-gateway-name/api.payment-gateway-name/pg/v4/payment/request.json'
+3. ZP_API_VERIFY = 'https://example.com/payment-gateway-name/api.payment-gateway-name/pg/v4/payment/verify.json'
+4. ZP_API_STARTPAY = 'https://example.com/payment-gateway-name/api.payment-gateway-name/pg/StartPay/{authority}'
+
+For sending email you must config settings.py at this address: website/settings.py line 170 to 171 as below:
+
+1. EMAIL_HOST_USER = 'youremail@gmail.com'
+2. EMAIL_HOST_PASSWORD = 'your gmail app password'
+
 Images project:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.png)
