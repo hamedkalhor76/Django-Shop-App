@@ -27,7 +27,7 @@ For sending email you must config settings.py at this address: website/settings.
 
 For to implement this project you must create a virtual environment on this project
 
-And install all the requirements through the requirements file whit this command: pip install -r requirements.txt
+And install all the requirements through the requirements file with this command: pip install -r requirements.txt
 
 Images project:
 
