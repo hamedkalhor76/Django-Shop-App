@@ -25,6 +25,8 @@ For sending email you must config settings.py at this address: website/settings.
 1. EMAIL_HOST_USER = 'youremail@gmail.com'
 2. EMAIL_HOST_PASSWORD = 'your gmail app password'
 
+For to implement this project you must create a virtual environment
+
 Images project:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.png)
