@@ -27,6 +27,8 @@ For sending email you must config settings.py at this address: website/settings.
 
 For to implement this project you must create a virtual environment
 
+And install all the requirements through the requirements file whi this command: pip install -r requirements.txt
+
 Images project:
 
 ![Website image](https://github.com/hamedkalhor76/django-shop-app/blob/main/images/img1.png)
