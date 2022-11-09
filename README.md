@@ -1,5 +1,5 @@
 # django-shop-app
-This is a store website programmed using the Django framework.
+This is a store website programmed using the django freamwork and python.
 
 Some features of this website:
 1. Add product to cart
