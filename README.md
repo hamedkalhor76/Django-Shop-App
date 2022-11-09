@@ -24,10 +24,8 @@ For sending email you must config settings.py at this address: website/settings.
 
 1. EMAIL_HOST_USER = 'youremail@gmail.com'
 2. EMAIL_HOST_PASSWORD = 'your gmail app password'
-
-For to implement this project you must create a virtual environment on this project
-
-And install all the requirements through the requirements file with this command: pip install -r requirements.txt
+3. For to implement this project you must create a virtual environment on this project
+4. And install all the requirements through the requirements file with this command: pip install -r requirements.txt
 
 Images project:
 
